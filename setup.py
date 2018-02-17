@@ -31,7 +31,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Tamas Balogh",
     author_email='tbalogh.developer@gmail.com',
-    url='https://github.com/tbalogh/executor_logger',
+    url='https://github.com/tbalogh/python-executor-logger',
     packages=find_packages(include=['executor_logger']),
     entry_points={
         'console_scripts': [
